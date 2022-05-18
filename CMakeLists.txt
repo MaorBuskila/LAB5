@@ -3,4 +3,4 @@ project(LAB5 C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(LAB5 main.c)
+add_executable(LAB5 Task0/a/myshell.c)
